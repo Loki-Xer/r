@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FEF7FF</color>
+    <color name="navbar">#F5EFF9</color>
+    <color name="surface">#F5EFF9</color>
+    <color name="surface_high">#ECE5F3</color>
+    <color name="text">#1D1B20</color>
+    <color name="accent">#6B50E0</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="indicator">#E4DAFB</color>
+    <color name="nav_inactive">#625B71</color>
+    <color name="heart">#E5365F</color>
+    <bool name="light_bars">true</bool>
+</resources>
